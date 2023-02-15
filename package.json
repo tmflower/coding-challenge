@@ -1,0 +1,22 @@
+{
+  "name": "coding-challenge",
+  "version": "1.0.0",
+  "description": "## What’s Required",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rithmschool/coding-challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rithmschool/coding-challenge/issues"
+  },
+  "homepage": "https://github.com/rithmschool/coding-challenge#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
