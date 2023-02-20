@@ -1,14 +1,14 @@
-DROP TABLE IF EXISTS users;
+-- DROP TABLE IF EXISTS users;
 
-CREATE TABLE users(
-    user_id INT PRIMARY KEY NOT NULL,
-    user_name VARCHAR,
-    user_age INT,
-    user_fav_color VARCHAR,
-    last_location VARCHAR,
-    lat DECIMAL,
-    long DECIMAL
-)
+-- CREATE TABLE users(
+--     user_id INT PRIMARY KEY NOT NULL,
+--     user_name VARCHAR,
+--     user_age INT,
+--     user_fav_color VARCHAR,
+--     last_location VARCHAR,
+--     lat DECIMAL,
+--     long DECIMAL
+-- )
 
 INSERT INTO users (user_id, user_name, user_age, user_fav_color, last_location, lat, long)
 VALUES
